@@ -10,7 +10,7 @@ A Sample Application of Opening a Receiver Fragment by an interface  when Fragme
 
 
 <p align="center">
-  <img alt="main_screen" src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/1.jpeg?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="top-top_headline" src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/2.jpeg?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SendingMessage" src="https://github.com/aman1sr/FragmentInterfaceCommuncate/blob/master/screenshot/ReceiverFrg.png?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="ReceivingMessage" src="[https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/2.jpeg?raw=true](https://github.com/aman1sr/FragmentInterfaceCommuncate/blob/master/screenshot/SenderFrg.png?raw=true)" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
